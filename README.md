@@ -1,3 +1,8 @@
+# html-city-torism
+### Assignment-1
+#### Creating a html file to display the contents as seen in the following image.
+#### Program:
+```
 <!DOCTYPE html>
 <html lang="en">
 
@@ -78,3 +83,9 @@
 </body>
 
 </html>
+```
+#### Output
+![Screenshot 2024-07-04 194242](https://github.com/SyedJaveed786/Assignment-1/assets/106874713/3c24d03d-2e36-4136-a814-1a7b477ec7cc)
+#### Result:
+Thus,Creating a html file to display the content in the above picture was executed successfully.
+
